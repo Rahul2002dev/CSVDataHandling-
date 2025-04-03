@@ -1,0 +1,4 @@
+id , Name , departmant , Salary
+23, Rahul , cse , 3
+45 , patel , vdr , 2
+56 , kumar, bft ,1
